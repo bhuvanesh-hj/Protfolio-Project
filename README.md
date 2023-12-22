@@ -1,4 +1,4 @@
-# Name of Project
+# My Portfolio Project
 
 ## Table of Contents
 
